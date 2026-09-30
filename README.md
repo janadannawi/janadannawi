@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jana Dannawi 👋
 
-<!--
-**janadannawi/janadannawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in **Mathematical Engineering & Data Science** at Université de Haute-Alsace (France)
+📚 Bachelor's in Data Science from Université Saint-Joseph de Beyrouth (Lebanon)
+🔍 Currently looking for a **6-month end-of-studies internship** in Data Science / Machine Learning
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Python, SQL, R
+- **Data & ML:** pandas, NumPy, scikit-learn, Matplotlib
+- **Computer Vision:** OpenCV
+- **Tools:** Git, Jupyter, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current work
+- Computer vision & image analysis project (M2 coursework)
+- Data analysis internship
+
+## 🌍 Languages
+Arabic · French · English,germany 
+
+## 📫 Contact
+- 📧 jana.dannawi@uha.fr
